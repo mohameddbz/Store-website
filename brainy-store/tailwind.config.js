@@ -10,7 +10,7 @@ module.exports = {
       'darkGreen' : '#224F34',
       'textcolor' : '#267D49',
       'textWhite' : '#FFFFFF',
-      
+      'imgColor' : '#F2F2F2',
     }
   },
   plugins: [],
